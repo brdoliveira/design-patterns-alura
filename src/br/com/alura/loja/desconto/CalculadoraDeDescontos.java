@@ -1,0 +1,2 @@
+package br.com.alura.loja.desconto;public class CalculadoraDeDescontos {
+}
